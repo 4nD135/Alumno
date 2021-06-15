@@ -1,0 +1,13 @@
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\bin\Debug\netcoreapp3.1\Comentarios.exe
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\bin\Debug\netcoreapp3.1\Comentarios.deps.json
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\bin\Debug\netcoreapp3.1\Comentarios.runtimeconfig.json
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\bin\Debug\netcoreapp3.1\Comentarios.runtimeconfig.dev.json
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\bin\Debug\netcoreapp3.1\Comentarios.dll
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\bin\Debug\netcoreapp3.1\Comentarios.pdb
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\obj\Debug\netcoreapp3.1\Comentarios.csprojAssemblyReference.cache
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\obj\Debug\netcoreapp3.1\Comentarios.AssemblyInfoInputs.cache
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\obj\Debug\netcoreapp3.1\Comentarios.AssemblyInfo.cs
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\obj\Debug\netcoreapp3.1\Comentarios.csproj.CoreCompileInputs.cache
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\obj\Debug\netcoreapp3.1\Comentarios.dll
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\obj\Debug\netcoreapp3.1\Comentarios.pdb
+C:\Users\ret-z\source\repos\Comentarios\Comentarios\obj\Debug\netcoreapp3.1\Comentarios.genruntimeconfig.cache
